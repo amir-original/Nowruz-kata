@@ -1,4 +1,5 @@
-Nowruz Kata
+## Nowruz Kata 
+checks the java 14 feature.
 
 ## Test Case:
 
